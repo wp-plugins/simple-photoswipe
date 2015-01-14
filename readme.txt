@@ -16,6 +16,11 @@ Simple Photoswipe extends Wordpress' built in gallery functionality and uses Dmi
 
 You can customize some of Photoswipes options at Settings > Simple Photoswipe.
 
+**Important Note:** In order to use Photoswipe zoom effect correclty you need to disable thumbnail cropping! 
+By default your images will be cropped to proportional 150x150 thumbnails. I would reccomend to set a bigger thumbnail size (as shown in screenshot 4) and re-upload your images. In case you don't want to re-upload your images I would recommend another plugin to automatically recrop your uploaded images.
+
+**Demo**
+
 You can see a [live demo here](http://tobiascichon.com/mnml/simple-photoswipe/) 
 
 == Installation == 
@@ -30,6 +35,7 @@ You can see a [live demo here](http://tobiascichon.com/mnml/simple-photoswipe/)
 1. Built in Wordpress Gallery with Masonry CSS Styles (noJS)
 2. Photoswipe in all it’s glory
 3. Simple Photoswipe Admin Settings Section
+4. Disable proportional thumbnails
 
 == Changelog ==
 
